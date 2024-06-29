@@ -1,4 +1,4 @@
-# Nexus_summer_Project_1
+# Nexus_summer_Project_1_&_2.
 Click on the following links to checkout the colab files for all three levels.
 - [Project 1](https://colab.research.google.com/drive/190k5NWcrPGrOHo88grKpY3vqvOrPkThF?usp=sharing)
 - [Project 2](https://colab.research.google.com/drive/1jXQuTtyF0dSeQt6SxFNxPQDyvFkUaXnK?usp=sharing)
